@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
 <title>TRANSWEB d.o.o. | Independent Shipbroker</title>
 <style>
 body {
@@ -267,6 +264,3 @@ document.querySelectorAll('.fade-in').forEach(el => {
   observer.observe(el);
 });
 </script>
-
-</body>
-</html>
