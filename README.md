@@ -180,17 +180,17 @@ footer {
 <header>
   <div style="text-align:center;">
     <img src="logo.png" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
-    <h1>TRANSWEB d.o.o. | Konstantin – Independent Marine Broker</h1>
+    <h1>Transweb d.o.o. | Independent Shipbroker</h1>
     <p>Connecting Cargo & Tonnage Worldwide</p>
   </div>
 </header>
 
 <section class="hero fade-in">
-  <h2>Serious Cargo. Reliable Tonnage. Decisive Execution.</h2>
+  <h2>Serious Cargo.      Reliable Tonnage. Decisive Execution.</h2>
   <p>
     We secure competitive freight with speed and precision. Direct access to vetted shipowners,
     disciplined negotiation, and strict post-fixture control ensure your cargo moves on schedule
-    and on firmly agreed terms. No noise. No delays. Just performance.
+    and on firmly agreed terms.    No noise. No delays. Just performance.
   </p>
   <a href="#" class="cta-button" onclick="document.querySelector('form').scrollIntoView({behavior: 'smooth'}); return false;">
     Discuss Your Shipment
@@ -225,11 +225,13 @@ footer {
 
 <section class="contact fade-in">
   <h2>Contact</h2>
-  <p>Email: K.INFOLOGIC@MAIL.COM</p>
+  <p>PIC: Konstantin Zamedianskii
+  <p>Email: K.INFOLOGIC@GMAIL.COM</p>
   <p>Telegram: +381 61 1049972 (UTC +3)</p>
-  <p>Telegram / WhatsApp / Mobile: +7 960 4848248 (UTC +3)</p>
-  <p>TRANSWEB d.o.o.</p>
+  <p>Telegram / WhatsApp: +7 960 4848248 (UTC +3)</p>
   <p>Zheleznicka 20, 21101 Novi Sad, Srbija</p>
+  <p>TRANSWEB d.o.o.</p>
+  
 </section>
 
 <section class="fade-in">
