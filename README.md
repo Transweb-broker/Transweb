@@ -43,11 +43,12 @@ section {
   justify-content: center;
 }
 .hero h2 {
-  line-height: 1.1;
-  font-size: 60px;
-  font-weight: 800;
-  margin-bottom: 45px;
-  letter-spacing: -1px;
+  line-height: 1.15;
+  font-size: 56px;
+  font-weight: 700;
+  margin: 0 auto 45px;
+  letter-spacing: -0.5px;
+  text-align: center;
 }
 .hero p {
   color: #555;
@@ -203,10 +204,7 @@ footer {
   <p>
     We secure competitive freight with speed and precision. Direct access to vetted shipowners,
     disciplined negotiation, and strict post-fixture control ensure your cargo moves on schedule
-    and on firmly agreed terms.
-  </p>
-  <p>
-    No noise. No delays. Just performance.
+    and on firmly agreed terms. No noise. No delays. Just performance.
   </p>
   <a href="#" class="cta-button" onclick="document.querySelector('form').scrollIntoView({behavior: 'smooth'}); return false;">
     Discuss Your Shipment
