@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TRANSWEB d.o.o. | Independent Marine Broker</title>
+<title>TRANSWEB d.o.o. | Independent Shipbroker</title>
 <style>
 body {
   margin: 0;
@@ -190,7 +190,7 @@ footer {
 <header>
   <div style="text-align:center;">
     <img src="logo.png" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
-    <h1>TRANSWEB d.o.o. | Konstantin – Independent Marine Broker</h1>
+    <h1>TRANSWEB d.o.o. | Konstantin – Independent Shipbroker</h1>
     <p>Connecting Cargo & Tonnage Worldwide</p>
   </div>
 </header>
