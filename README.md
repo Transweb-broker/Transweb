@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TRANSWEB d.o.o. | Independent Marine Broker</title>
+<title>TRANSWEB d.o.o. | Independent Shipbroker</title>
 <style>
 body {
   margin: 0;
