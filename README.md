@@ -1,4 +1,9 @@
-<title>TRANSWEB d.o.o. | Independent Shipbroker</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TRANSWEB d.o.o. | Independent Marine Broker</title>
 <style>
 body {
   margin: 0;
@@ -41,7 +46,7 @@ section {
   line-height: 1.1;
   font-size: 60px;
   font-weight: 800;
-  margin-bottom: 35px;
+  margin-bottom: 45px;
   letter-spacing: -1px;
 }
 .hero p {
@@ -51,6 +56,11 @@ section {
   max-width: 720px;
   margin: 0 auto 40px;
   font-weight: 400;
+}
+
+.hero p:last-of-type {
+  font-weight: 600;
+  color: #111;
 }
 
 .cta-button {
@@ -101,15 +111,19 @@ section {
 }
 .contact {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .contact h2 {
   font-weight: 500;
   margin-bottom: 30px;
+  text-align: center;
 }
 .contact p {
   margin: 6px 0;
-  font-size: 15px;
-  color: #333;
+  font-size: 14px;
+  color: #555;
 }
 form input, form textarea {
   border: none;
@@ -169,26 +183,28 @@ footer {
   }
 }
 </style>
-
+</head>
 <body>
 
 <header>
   <div style="text-align:center;">
-    <img src="logo.jpg" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
-    <h1>Transweb d.o.o. | Independent Shipbroker</h1>
+    <img src="logo.png" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
+    <h1>TRANSWEB d.o.o. | Konstantin – Independent Marine Broker</h1>
     <p>Connecting Cargo & Tonnage Worldwide</p>
   </div>
 </header>
 
 <section class="hero fade-in">
-  <h2>Serious Cargo.</h2>
-  <h2>Reliable Tonnage.</h2> 
-  <h2>Decisive Execution.</h2>
+  <h2>
+    Serious Cargo.<br>
+    Reliable Tonnage.<br>
+    Decisive Execution.
+  </h2>
   <p>
     We secure competitive freight with speed and precision. Direct access to vetted shipowners,
     disciplined negotiation, and strict post-fixture control ensure your cargo moves on schedule
     and on firmly agreed terms.
-  </p> 
+  </p>
   <p>
     No noise. No delays. Just performance.
   </p>
@@ -224,21 +240,20 @@ footer {
 </section>
 
 <section class="contact fade-in">
-      <h2>Direct Contact</h2>
-<p>PIC: KONSTANTIN ZAMEDIANSKII</p>
-<p>Email: K.INFOLOGIC@GMAIL.COM</p>
-<p>Telegram: +381 61 1049972 (UTC +3)</p>
-<p>Telegram / WhatsApp: +7 960 4848248 (UTC +3)</p>
-<p>Zheleznicka 20, 21101 Novi Sad, Srbija</p>
-<p>TRANSWEB d.o.o.</p>
-  
+  <h2>Contact</h2>
+  <p>Email: K.INFOLOGIC@MAIL.COM</p>
+  <p>Telegram: +381 61 1049972 (UTC +3)</p>
+  <p>Telegram / WhatsApp / Mobile: +7 960 4848248 (UTC +3)</p>
+  <p>TRANSWEB d.o.o.</p>
+  <p>Zheleznicka 20, 21101 Novi Sad, Srbija</p>
 </section>
+
 <section class="fade-in">
   <h2 style="text-align:center; margin-bottom:40px; font-weight:600;">Discuss Your Shipment</h2>
   <p style="text-align:center; color:#777; max-width:520px; margin:0 auto 60px; font-size:16px;">
     Provide brief shipment details below. Further specifications can be aligned directly and efficiently.
   </p>
-  <form action="mailto:K.INFOLOGIC@GMAIL.COM" method="post" enctype="text/plain" style="max-width:520px; margin:0 auto; display:flex; flex-direction:column; gap:25px;">
+  <form action="mailto:K.INFOLOGIC@MAIL.COM" method="post" enctype="text/plain" style="max-width:520px; margin:0 auto; display:flex; flex-direction:column; gap:25px;">
     <input type="text" name="Company" placeholder="Company" required>
     <input type="email" name="Email" placeholder="Business Email" required>
     <input type="text" name="Cargo" placeholder="Cargo & Approx. Quantity" required>
@@ -251,6 +266,9 @@ footer {
 </section>
 
 <footer>
+  <div style="margin-bottom:20px; font-size:12px; letter-spacing:1.5px; text-transform:uppercase; color:#888;">
+    Independent Marine Brokerage | Dry Bulk Focus | Black Sea & Mediterranean
+  </div>
   © 2026 TRANSWEB d.o.o. | Novi Sad, Serbia. All rights reserved.
 </footer>
 
@@ -267,3 +285,6 @@ document.querySelectorAll('.fade-in').forEach(el => {
   observer.observe(el);
 });
 </script>
+
+</body>
+</html>
