@@ -181,13 +181,15 @@ footer {
 </header>
 
 <section class="hero fade-in">
-  <h2>Serious Cargo. 
-    Reliable Tonnage. 
-    Decisive Execution.</h2>
+  <h2>Serious Cargo.</h2>
+  <h2>Reliable Tonnage.</h2> 
+  <h2>Decisive Execution.</h2>
   <p>
     We secure competitive freight with speed and precision. Direct access to vetted shipowners,
     disciplined negotiation, and strict post-fixture control ensure your cargo moves on schedule
-    and on firmly agreed terms. 
+    and on firmly agreed terms.
+  </p> 
+  <p>
     No noise. No delays. Just performance.
   </p>
   <a href="#" class="cta-button" onclick="document.querySelector('form').scrollIntoView({behavior: 'smooth'}); return false;">
