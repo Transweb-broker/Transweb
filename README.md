@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TRANSWEB d.o.o. | Independent Shipbroker</title>
+<title>TRANSWEB d.o.o. | Independent Marine Broker</title>
 <style>
 body {
   margin: 0;
@@ -41,6 +40,7 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 .hero h2 {
   line-height: 1.15;
@@ -190,17 +190,16 @@ footer {
 <header>
   <div style="text-align:center;">
     <img src="logo.png" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
-    <h1>TRANSWEB d.o.o. | Konstantin – Independent Shipbroker</h1>
+    <h1>TRANSWEB d.o.o. | Konstantin – Independent Marine Broker</h1>
     <p>Connecting Cargo & Tonnage Worldwide</p>
   </div>
 </header>
 
 <section class="hero fade-in">
   <h2>
-    Serious Cargo.<br>
-    Reliable Tonnage.<br>
-    Decisive Execution.
-  </h2>
+  Serious Cargo. Reliable Tonnage.<br>
+  Decisive Execution.
+</h2>
   <p>
     We secure competitive freight with speed and precision. Direct access to vetted shipowners,
     disciplined negotiation, and strict post-fixture control ensure your cargo moves on schedule
