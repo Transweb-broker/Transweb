@@ -38,10 +38,11 @@ section {
   justify-content: center;
 }
 .hero h2 {
+  line-height: 1.1;
   font-size: 60px;
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: 35px;
-  letter-spacing: -0.5px;
+  letter-spacing: -1px;
 }
 .hero p {
   color: #555;
@@ -107,8 +108,8 @@ section {
 }
 .contact p {
   margin: 6px 0;
-  font-size: 14px;
-  color: #555;
+  font-size: 15px;
+  color: #333;
 }
 form input, form textarea {
   border: none;
@@ -221,21 +222,21 @@ footer {
 </section>
 
 <section class="contact fade-in">
-      <h2>Contact</h2>
-<p>PIC: KONSTANTIN ZAMEDIANSKII
+      <h2>Direct Contact</h2>
+<p>PIC: KONSTANTIN ZAMEDIANSKII</p>
 <p>Email: K.INFOLOGIC@GMAIL.COM</p>
 <p>Telegram: +381 61 1049972 (UTC +3)</p>
 <p>Telegram / WhatsApp: +7 960 4848248 (UTC +3)</p>
 <p>Zheleznicka 20, 21101 Novi Sad, Srbija</p>
 <p>TRANSWEB d.o.o.</p>
   
-
+</section>
 <section class="fade-in">
   <h2 style="text-align:center; margin-bottom:40px; font-weight:600;">Discuss Your Shipment</h2>
   <p style="text-align:center; color:#777; max-width:520px; margin:0 auto 60px; font-size:16px;">
     Provide brief shipment details below. Further specifications can be aligned directly and efficiently.
   </p>
-  <form action="mailto:K.INFOLOGIC@MAIL.COM" method="post" enctype="text/plain" style="max-width:520px; margin:0 auto; display:flex; flex-direction:column; gap:25px;">
+  <form action="mailto:K.INFOLOGIC@GMAIL.COM" method="post" enctype="text/plain" style="max-width:520px; margin:0 auto; display:flex; flex-direction:column; gap:25px;">
     <input type="text" name="Company" placeholder="Company" required>
     <input type="email" name="Email" placeholder="Business Email" required>
     <input type="text" name="Cargo" placeholder="Cargo & Approx. Quantity" required>
