@@ -176,7 +176,7 @@ footer {
 
 <header>
   <div style="text-align:center;">
-    <img src="logo.png" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
+    <img src="logo.jpg" alt="TRANSWEB Logo" style="max-width:180px; margin-bottom:15px;">
     <h1>Transweb d.o.o. | Independent Shipbroker</h1>
     <p>Connecting Cargo & Tonnage Worldwide</p>
   </div>
