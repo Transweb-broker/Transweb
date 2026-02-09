@@ -168,7 +168,7 @@ footer {
   }
 }
 </style>
-</head>
+
 <body>
 
 <header>
@@ -221,7 +221,7 @@ footer {
 </section>
 
 <section class="contact fade-in">
-    <h2>Contact</h2>
+      <h2>Contact</h2>
 <p>PIC: KONSTANTIN ZAMEDIANSKII
 <p>Email: K.INFOLOGIC@GMAIL.COM</p>
 <p>Telegram: +381 61 1049972 (UTC +3)</p>
